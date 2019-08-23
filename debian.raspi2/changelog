@@ -1,3 +1,9 @@
+linux-raspi2 (5.2.0-1002.2) eaon; urgency=medium
+
+  * Initial eaon/raspi2 packaging
+
+ -- Hui Wang <hui.wang@canonical.com> Thu, 22 Aug 2019 20:30:03 +0800
+
 linux-raspi2 (5.2.0-1001.1) eaon; urgency=medium
 
   * Initial eaon/raspi2 packaging
