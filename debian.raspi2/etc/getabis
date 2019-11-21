@@ -9,4 +9,4 @@ repo_list=(
 package_prefixes linux-image linux-modules
 
 getall armhf raspi2 raspi4
-getall arm64 raspi2
+getall arm64 raspi4
